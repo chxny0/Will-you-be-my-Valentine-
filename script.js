@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "ไม่รักกันแล้วหรอ?",
+    "รักเถอะนะอ้วนน",
+    "ที่กดไม่เพราะมีพลอยใช่มั้ย?",
+    "นอยย",
+    "จะรักดีๆหรือจะรักด้วยน้ำตา!",
+    "ร้องไห้แระ ฮรืออ",
+    "หมูไม่รักเค้า",
+    "ใช่สิ รักเรามันเก่า",
+    "ไม่ต้องมาคุยเลย เชอะ",
+    "หยอกเล่น แต่รักเค้าหน่อยย ❤️"
 ];
 
 let messageIndex = 0;
